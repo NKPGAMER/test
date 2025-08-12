@@ -1,12 +1,30 @@
 {
+  "11": [
+    {
+      "type": "Camera",
+      "path": "images/1755012180954-2229.webp"
+    }
+  ],
   "iPhone 12 Pro Max": [
-    { "type": "Taildock", "path": "images/12promax_taildock.png" }
+    {
+      "type": "Taildock",
+      "path": "images/12promax_taildock.png"
+    }
   ],
   "iPhone 13 Pro": [
-    { "type": "camera-test", "path": "images/13pro_backcam.png" }
+    {
+      "type": "camera-test",
+      "path": "images/13pro_backcam.png"
+    }
   ],
   "iPhone 14": [
-    { "type": "camera_rear", "path": "images/icon.webp" },
-    { "type": "camera_front", "path": "images/iphone15_camera_front.jpg" }
+    {
+      "type": "camera_rear",
+      "path": "images/icon.webp"
+    },
+    {
+      "type": "camera_front",
+      "path": "images/iphone15_camera_front.jpg"
+    }
   ]
 }
